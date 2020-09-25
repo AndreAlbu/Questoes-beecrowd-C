@@ -2,7 +2,7 @@
 
 int main(){
     
-    int tempo = 24, dia1 = 0, dia2 = 0;
+    int tempo = 24, dia1 = 0, dia2 = 0, aux = 0;
     
     scanf("%d %d", &dia1, &dia2);
     
