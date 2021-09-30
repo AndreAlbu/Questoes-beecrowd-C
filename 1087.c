@@ -1,3 +1,4 @@
+/* Questao 1087*/
 #include <stdio.h>
 
 int main(){
