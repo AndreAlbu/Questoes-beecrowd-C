@@ -3,7 +3,7 @@
 Resolução de algumas questões do site [beecrowd](https://www.beecrowd.com.br/judge/en/login) na linguagem C.
 
 
-## Contribuindo
+## [Contribuindo](https://github.com/AndreAlbu/Questoes-beecrowd-C/blob/master/CONTRIBUTING.md)
 
 Contribuições são sempre bem-vindas!
 
