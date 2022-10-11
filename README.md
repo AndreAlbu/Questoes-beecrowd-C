@@ -12,7 +12,7 @@ Para contribuir utilize a seguinte forma:
 
 
 ```
-  codigo.c
+  0000.c
 ```
 
 [![@AndreAlbu's Holopin board](https://holopin.io/api/user/board?user=AndreAlbu)](https://holopin.io/@AndreAlbu)
